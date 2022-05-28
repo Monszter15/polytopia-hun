@@ -193,12 +193,12 @@
   "tribes.yadakk": "Yădakk",
   "tribes.yadakk.info": "A {0} egy nomád törzsként kezdett a gyönyörű és könyörtelen gyönyörű Khalee síkságon. Mostmár ők a felszín csere vezérei, a hatalmas birodalmuk összekötésével. \n\n{0} a játékot a '{1}' technológiával kezdi.",
   "tribes.polaris": "Polaris",
-  "tribes.polaris.info": "A(z) {0} eonok óta csapdába esett a fagyos tundra távolabbi részén, de a megismerhetetlen gaami megáldotta őket azzal az erővel, hogy természetellenesen jeges terepüket messzebbre terjessze, mint azt az időjárás engedi. \n\nA misztikus {0} a szánkók és a mamuok erejével elhatározza, hogy jégbe temeti a teret, és rideg paradicsommá változtatja a földet. \n\n{0} azzal indítja el a játékot, hogy képes lefagyasztani a környező terepet a Moonies segítségével."
+  "tribes.polaris.info": "A(z) {0} eonok óta csapdába esett a fagyos tundra távolabbi részén, de a megismerhetetlen gaami megáldotta őket azzal az erővel, hogy természetellenesen jeges terepüket messzebbre terjessze, mint azt az időjárás engedi. \n\nA misztikus {0} a szánkók és a mamuok erejével elhatározza, hogy jégbe temeti a teret, és rideg paradicsommá változtatja a földet. \n\n{0} azzal indítja el a játékot, hogy képes lefagyasztani a környező terepet a Moonies segítségével.",
 
   "building.capital.owner": "{0} a {1} fővárosa",
   "building.capital.owner.former": "{0} a(z) {1} birodalom egykori fővárosa, jelenleg {2} erők foglalják el",
   "building.city.owner": "{0} egy város a {1} birodalomban",
-  "building.village.owner": "Ez egy falu, nem tartozik egyetlen törzshez sem"  "building.ability.attract": "3 körönként egy vadállatot vonz egy közeli erdőlcsempéhez",
+  "building.village.owner": "Ez egy falu, nem tartozik egyetlen törzshez sem"  "building.ability.attract":, "3 körönként egy vadállatot vonz egy közeli erdőlcsempéhez",
   "building.produce": "körönként {0} termel",
   "building.produce.multiply.polaris": " ({0} for every {1} frozen tiles in the world)",
   "building.produce.multiply2.polaris": "Produces {0} for every {1} frozen tiles in the world",
@@ -216,8 +216,8 @@
   "building.ability.embark": "Units that move here will turn into boats that can move on water.",
   "building.ability.route": "It creates trade routes through {0} to any other {1} within a 5 tiles radius.",
   "building.ability.route.and": " and ",
-  "building.ability.road": "Építs utakat a városok és a főváros közötti összeköttetéshez. Az összekötő városok 1 lakost kapnak jutalmul. Az utak mozgási bónuszt is adnak minden egységnek."
-  "building.ability.ruin":"Egy ősi civilizáció romja, értékes dolgokat tartalmazhat! Menjen oda egy egységgel, hogy megvizsgálja."
+  "building.ability.road": "Építs utakat a városok és a főváros közötti összeköttetéshez. Az összekötő városok 1 lakost kapnak jutalmul. Az utak mozgási bónuszt is adnak minden egységnek.",
+  "building.ability.ruin":"Egy ősi civilizáció romja, értékes dolgokat tartalmazhat! Menjen oda egy egységgel, hogy megvizsgálja.",
   "building.ability.patina": "{0} grows over time, so try to build them as early as possible.",
   "building.ability.limited": "You can only build one {0} per city.",
   "building.ability.unique": "{0} can only be built once.",
