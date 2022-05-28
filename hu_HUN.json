@@ -208,7 +208,7 @@
     "building.ability.embark":"Units that move here will turn into boats that can move on water.",
     "building.ability.route":"It creates trade routes through {0} to any other {1} within a 5 tiles radius.",
     "building.ability.route.and":" and ",
-    "building.ability.road":"Építs utakat a városok és a főváros közötti összeköttetéshez. Az összekötő városok 1 lakost kapnak jutalmul. Az utak mozgási bónuszt is adnak minden egységnek.""building.ability.ruin":"Egy ősi civilizáció romja, értékes dolgokat tartalmazhat! Menjen oda egy egységgel, hogy megvizsgálja.""building.ability.patina":"{0} grows over time, so try to build them as early as possible.",
+    "building.ability.road":"Építs utakat a városok és a főváros közötti összeköttetéshez. Az összekötő városok 1 lakost kapnak jutalmul. Az utak mozgási bónuszt is adnak minden egységnek.""building.ability.ruin":"Egy ősi civilizáció romja, értékes dolgokat tartalmazhat! Menjen oda egy egységgel, hogy megvizsgálja.""building.ability.patina":,"{0} grows over time, so try to build them as early as possible.",
     "building.ability.limited":"You can only build one {0} per city.",
     "building.ability.unique":"{0} can only be built once.",
     "building.restriction.near":"Must be built next to a {0}.",
